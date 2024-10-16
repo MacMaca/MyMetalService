@@ -1,3 +1,8 @@
+If I did something wrong on GitHub regarding this announcement, I ask more experienced people to comment on it so that I can fix it. This also applies to licensing. I am new to GitHub. I have no experience with this.
+
+
+
+
 Laser Cutting Services Website
 
 Welcome to the Laser Cutting Services project! I’m working on building a professional website for my Bystronic laser cutting business, and I’m looking for collaborators to help bring this project to life. If you have experience with web development, e-commerce, or multilingual support, I would love to have your input!
